@@ -31,12 +31,14 @@ Também gosto de conectar manufatura e dados: desenvolvo pipelines ETL e automat
     <br>
     <br>
     <img width="30px" src="https://cdn.simpleicons.org/autodesk/c25527" />
-    <img width="30px" src="https://cdn.simpleicons.org/autocad/c25527" />
-    <img width="30px" src="https://cdn.simpleicons.org/autodeskrevit/c25527" />
-    <img width="30px" src="https://cdn.simpleicons.org/ansys/c25527" />
+    <img width="30px" src="assets/creo.svg" />
+    <img width="30px" src="assets/solidworks.svg" />
+    <img width="30px" src="assets/inventor.svg" />
     <img width="30px" src="https://cdn.simpleicons.org/dassaultsystemes/c25527" />
-    <img width="30px" src="https://user-images.githubusercontent.com/17025808/181291304-c0eac5d9-719c-4bfc-95fa-66a78cead360.svg" />
-     
+    <img width="30px" src="https://cdn.simpleicons.org/ansys/c25527" />
+    <img width="30px" src="assets/navisworks.svg" />
+    <img width="30px" src="assets/ips.svg" />
+    <img width="30px" src="https://cdn.simpleicons.org/autodeskrevit/c25527" />
   </kbd>
   <kbd>
     <kbd>Game Dev</kbd>
