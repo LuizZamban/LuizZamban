@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:luizczamban@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/luiz-zamban-35931aa8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-zamban-35931aa8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=c25527" target="_blank"></a>
 </p>
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
@@ -30,6 +30,13 @@ Também gosto de conectar manufatura e dados: desenvolvo pipelines ETL e automat
     <kbd>CAD & CAE</kbd>
     <br>
     <br>
+    <img width="30px" src="https://cdn.simpleicons.org/autodesk/c25527" />
+    <img width="30px" src="https://cdn.simpleicons.org/autocad/c25527" />
+    <img width="30px" src="https://cdn.simpleicons.org/autodeskrevit/c25527" />
+    <img width="30px" src="https://cdn.simpleicons.org/ansys/c25527" />
+    <img width="30px" src="https://cdn.simpleicons.org/dassaultsystemes/c25527" />
+    <img width="30px" src="https://user-images.githubusercontent.com/17025808/181291304-c0eac5d9-719c-4bfc-95fa-66a78cead360.svg" />
+     
   </kbd>
   <kbd>
     <kbd>Game Dev</kbd>
@@ -40,6 +47,7 @@ Também gosto de conectar manufatura e dados: desenvolvo pipelines ETL e automat
     <img width="30px" src="https://deviconapi.vercel.app/csharp?color=c25527&size=30"/>
     <img width="30px" src="https://deviconapi.vercel.app/unity?color=c25527&size=30"/>
     <img width="30px" src="https://deviconapi.vercel.app/unrealengine?color=c25527&size=30"/>
+    <img width="30px" src="https://cdn.simpleicons.org/blender/c25527" />
   </kbd>
   <kbd>
     <kbd>Analise de dados</kbd>
@@ -55,6 +63,7 @@ Também gosto de conectar manufatura e dados: desenvolvo pipelines ETL e automat
     <br>
     <img width="30px" src="https://deviconapi.vercel.app/arduino?color=c25527&size=30"/>
     <img width="30px" src="https://deviconapi.vercel.app/git?color=c25527&size=30"/> 
+    <img width="30px" src="https://cdn.simpleicons.org/postman/c25527" />
   </kbd>
   <br>
 </div>
