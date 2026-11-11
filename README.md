@@ -69,7 +69,9 @@ Também gosto de conectar manufatura e dados: desenvolvo pipelines ETL e automat
   </kbd>
   <br>
 </div>
-
+<div align= "center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizzamban&theme=shadow-orange"/>
+</div>
 <br>
 <br>
 
