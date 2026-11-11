@@ -16,7 +16,7 @@
   <em>
 Eu sou um engenheiro ajudando a transformar ideias em processos de produção mais eficientes, antes mesmo delas chegarem à fábrica.
 No dia a dia, uso ferramentas 3D e 2D, digital mockups, simulação de fluxo discretos e validação de layouts para apoiar decisões de manufatura.
-Também gosto de conectar manufatura e dados: desenvolvo pipelines ETL e automatizo processos com **RPAs** e Scripts.</p>
+Também gosto de conectar manufatura e dados: desenvolvo pipelines ETL e automatizo processos com RPAs e Scripts.</p>
   </em> 
   <br>
 <div align= "center">
