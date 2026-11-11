@@ -16,7 +16,7 @@
   <em>
 Eu sou um engenheiro ajudando a transformar ideias em processos de produção mais eficientes, antes mesmo delas chegarem à fábrica.
 No dia a dia, uso ferramentas 3D e 2D, digital mockups, simulação de fluxo discretos e validação de layouts para apoiar decisões de manufatura.
-Também gosto de conectar manufatura e dados: desenvolvo pipelines ETL e automatizo processos com RPAs e Scripts.</p>
+Também gosto de conectar manufatura e dados, desenvolvo pipelines ETL e automatizo processos com RPAs e Scripts.</p>
   </em> 
   <br>
 <div align= "center">
@@ -68,9 +68,12 @@ Também gosto de conectar manufatura e dados: desenvolvo pipelines ETL e automat
     <img width="30px" src="https://cdn.simpleicons.org/postman/c25527" />
   </kbd>
   <br>
+  <br>
 </div>
 <div align= "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizzamban&theme=shadow-orange"/>
+  <b><i>Boring Stats</i></b><br> 
+  <img src="https://github-stats-extended.vercel.app/api?username=LuizZamban&custom_title=Meus%20Stats&show_icons=true&include_all_commits=true&theme=codeSTACKr"/><br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=LuizZamban&layout=compact&langs_count=4&hide_values=true&theme=codeSTACKr"/>
 </div>
 <br>
 <br>
